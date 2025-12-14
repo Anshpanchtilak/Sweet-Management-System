@@ -41,30 +41,3 @@ This improves user trust and reduces support queries.
 <img width="1899" height="890" alt="img 3" src="https://github.com/user-attachments/assets/867a1fa6-0f26-4651-95f3-0aaf4a8cdeee" />
 
 
-🛠️ Tech Stack (UI)
-
-React.js
-
-Bootstrap
-
-CSS3
-
-Responsive Design
-
-🚀 Purpose of This Page
-
-Showcase products professionally
-
-Improve customer engagement
-
-Serve as the entry point for the Sweet Shop Management System
-
-📌 Future Enhancements
-
-Backend integration (authentication & orders)
-
-Admin dashboard
-
-Cart & checkout system
-
-Payment gateway integration
